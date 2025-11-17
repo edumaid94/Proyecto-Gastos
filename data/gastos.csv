@@ -1,45 +1,45 @@
-﻿usuario,fecha,categoria,descripcion,monto
-Eduardo,2025-01-02,Comida,Desayuno en cafetería,25000
-Eduardo,2025-01-03,Transporte,Uber al trabajo,18000
-Lorenza,2025-01-03,Super,Compras semanales,85000
-Eduardo,2025-01-05,Ocio,Cine,40000
-Lorenza,2025-01-06,Comida,Almuerzo,32000
-Eduardo,2025-01-07,Combustible,Nafta,70000
-Lorenza,2025-01-08,Transporte,Colectivo,5000
-Eduardo,2025-01-10,Super,Compras del mes,120000
-Lorenza,2025-01-11,Ocio,Café con amigas,28000
-Eduardo,2025-01-12,Comida,Delivery de pizza,55000
-Lorenza,2025-01-13,Super,Frutas y verduras,30000
-Eduardo,2025-01-15,Transporte,Taxi,20000
-Lorenza,2025-01-16,Ocio,Libro,45000
-Eduardo,2025-01-18,Comida,Almuerzo,38000
-Lorenza,2025-01-20,Combustible,Nafta,68000
-Eduardo,2025-01-21,Super,Compras pequeñas,26000
-Lorenza,2025-01-23,Transporte,Uber,15000
-Eduardo,2025-01-25,Ocio,Salida a bar,60000
-Lorenza,2025-01-27,Comida,Pastelería,22000
-Eduardo,2025-01-29,Super,Limpieza hogar,30000
-Lorenza,2025-01-30,Comida,Almuerzo,35000
-
-Eduardo,2025-02-01,Comida,Desayuno,18000
-Lorenza,2025-02-02,Super,Compras grandes,110000
-Eduardo,2025-02-03,Transporte,Uber al trabajo,17000
-Lorenza,2025-02-04,Comida,Helado,15000
-Eduardo,2025-02-05,Ocio,Cine,42000
-Lorenza,2025-02-06,Transporte,Colectivo,5000
-Eduardo,2025-02-07,Comida,Delivery hamburguesas,60000
-Lorenza,2025-02-08,Ocio,Restaurante,70000
-Eduardo,2025-02-10,Super,Compras semanales,90000
-Lorenza,2025-02-11,Comida,Almuerzo,30000
-Eduardo,2025-02-12,Transporte,Taxi,21000
-Lorenza,2025-02-13,Super,Verduras y frutas,25000
-Eduardo,2025-02-15,Ocio,Videojuegos,80000
-Lorenza,2025-02-16,Combustible,Nafta,72000
-Eduardo,2025-02-17,Comida,Café,12000
-Lorenza,2025-02-19,Ocio,Manicura,45000
-Eduardo,2025-02-21,Transporte,Uber,15000
-Lorenza,2025-02-22,Super,Aseo personal,27000
-Eduardo,2025-02-24,Super,Compras de hogar,40000
-Lorenza,2025-02-26,Comida,Pastas,38000
-Eduardo,2025-02-27,Ocio,Salida bar,65000
-Lorenza,2025-02-28,Transporte,Taxi,18000
+usuario,fecha,categoria,descripcion,monto
+Eduardo,2025-10-02,Comida,Desayuno en cafetería,25000
+Eduardo,2025-10-03,Transporte,Uber al trabajo,18000
+Lorenza,2025-10-03,Super,Compras semanales,85000
+Eduardo,2025-10-05,Ocio,Cine,40000
+Lorenza,2025-10-06,Comida,Almuerzo,32000
+Eduardo,2025-10-07,Combustible,Nafta,70000
+Lorenza,2025-10-08,Transporte,Colectivo,5000
+Eduardo,2025-10-10,Super,Compras del mes,120000
+Lorenza,2025-10-11,Ocio,Café con amigas,28000
+Eduardo,2025-10-12,Comida,Delivery de pizza,55000
+Lorenza,2025-10-13,Super,Frutas y verduras,30000
+Eduardo,2025-10-15,Transporte,Taxi,20000
+Lorenza,2025-10-16,Ocio,Libro,45000
+Eduardo,2025-10-18,Comida,Almuerzo,38000
+Lorenza,2025-10-20,Combustible,Nafta,68000
+Eduardo,2025-10-21,Super,Compras pequeñas,26000
+Lorenza,2025-10-23,Transporte,Uber,15000
+Eduardo,2025-10-25,Ocio,Salida a bar,60000
+Lorenza,2025-10-27,Comida,Pastelería,22000
+Eduardo,2025-10-29,Super,Limpieza hogar,30000
+Lorenza,2025-10-30,Comida,Almuerzo,35000
+Eduardo,2025-09-01,Comida,Desayuno,18000
+Lorenza,2025-09-02,Super,Compras grandes,110000
+Eduardo,2025-09-03,Transporte,Uber al trabajo,17000
+Lorenza,2025-09-04,Comida,Helado,15000
+Eduardo,2025-09-05,Ocio,Cine,42000
+Lorenza,2025-09-06,Transporte,Colectivo,5000
+Eduardo,2025-09-07,Comida,Delivery hamburguesas,60000
+Lorenza,2025-09-08,Ocio,Restaurante,70000
+Eduardo,2025-09-10,Super,Compras semanales,90000
+Lorenza,2025-09-11,Comida,Almuerzo,30000
+Eduardo,2025-09-12,Transporte,Taxi,21000
+Lorenza,2025-09-13,Super,Verduras y frutas,25000
+Eduardo,2025-09-15,Ocio,Videojuegos,80000
+Lorenza,2025-09-16,Combustible,Nafta,72000
+Eduardo,2025-09-17,Comida,Café,12000
+Lorenza,2025-09-19,Ocio,Manicura,45000
+Eduardo,2025-09-21,Transporte,Uber,15000
+Lorenza,2025-09-22,Super,Aseo personal,27000
+Eduardo,2025-09-24,Super,Compras de hogar,40000
+Lorenza,2025-09-26,Comida,Pastas,38000
+Eduardo,2025-09-27,Ocio,Salida bar,65000
+Lorenza,2025-09-28,Transporte,Taxi,18000
+Eduardo,2025-11-17,Comida,almuerzo,60000

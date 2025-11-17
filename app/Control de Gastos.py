@@ -3,7 +3,7 @@ import pandas as pd
 import os
 from datetime import date
 
-CSV_FILE = "gastos.csv"
+CSV_FILE = "data/gastos.csv"
 
 # ---------------------- Cargar o crear CSV ----------------------
 def load_data():
@@ -18,7 +18,7 @@ def save_data(df):
     df.to_csv(CSV_FILE, index=False)
 
 # ---------------------- App ----------------------
-st.title("💰 Control de Gastos Multiusuario")
+st.title("Control de Gastos Multiusuario")
 
 df = load_data()
 

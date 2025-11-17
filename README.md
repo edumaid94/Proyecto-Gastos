@@ -30,7 +30,6 @@ proyecto-gastos/
 │ └── Control de Gastos.py
 │── docs/
 ├── informe.pdf
-└── slides.pdf
 ```
 ---
 
@@ -108,7 +107,7 @@ streamlit run "Control de Gastos.py"
 
 ---
 
-## 📄 requirements.txt
+## requirements.txt
 Estas son las dependencias necesarias para ejecutar el proyecto:
 
 ```bash
@@ -125,7 +124,7 @@ pip install -r requirements.txt
 ```
 ## Informe Final
 
-El informe completo del proyecto (máx. 10 páginas) se encuentra en:
+El informe completo del proyecto se encuentra en:
 
 📁 docs/informe.pdf
 
@@ -145,26 +144,6 @@ Incluye:
 
 -   Recomendaciones y próximos pasos
 
-## Presentación
-
-La presentación utilizada para la defensa del proyecto está en:
-
-📁 docs/slides.pdf
-
-
-Incluye:
-
-- Problema
-
-- Datos
-
-- Análisis
-
-- Resultados
-
-- Demo
-
-- Conclusiones
 
 ## Próximos Pasos (Mejoras sugeridas)
 
